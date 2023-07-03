@@ -360,5 +360,9 @@ input[type="submit"] {
 	.picture {
 		width: 80%;
 	}
+	img{
+		width: -30px;
+		height: -20px;
+	}
 }
 
